@@ -68,7 +68,8 @@ Aquí iré destacando los repositorios con el código de aprendizaje de cada uno
    2.4. **[Prácticas avanzadas](https://github.com/Alegarse/B17-mod3-js-advance-practice) - PRIVATE - Need Auth** -  [Visualización Online](https://js-advance-practice.arenalsoft.es/)  
 
 3. **MODULO BBDD**   
-   3.1. **[Bases de datos relacionales](https://github.com/Alegarse/B17-mod4-bbdd-rel)** - _Ejercicios de querys SQL_   
+   3.1. **[Bases de datos relacionales](https://github.com/Alegarse/B17-mod4-bbdd-rel)** - _Contenido y ejercicios de querys SQL_
+   3.2. **[Bases de datos no relacionales](https://github.com/Alegarse/B17-mod4-bbdd-norel)** - _Contenido y ejercicios de MongoDB_       
 
 ---
 <a id="contacto"></a>
