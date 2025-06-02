@@ -75,14 +75,10 @@ Aquí iré destacando los repositorios con el código de aprendizaje de cada uno
    4.1. **[RestFull Api](https://github.com/Alegarse/restfull_api_17)** - _Api RestFull desarrollada desde 0_      
    4.2. **[Recipes API](https://github.com/Alegarse/RecipesAPI)** - _APi RestFull para devolver recetas de cocina_ 
 
-5. **MODULO NODEJS**    
-   5.1. **[RestFull Api](https://github.com/Alegarse/restfull_api_17)** - _Api RestFull desarrollada desde 0_      
-   5.2. **[Recipes API](https://github.com/Alegarse/RecipesAPI)** - _APi RestFull para devolver recetas de cocina_
+5. **MODULO REACT**    
+   5.1. **[React Básico - Proyectos](https://github.com/Alegarse/CodeSpace_React_Module_Basic)** - _Conjunto de proyectos de aprendizaje de React Básico_
 
-6. **MODULO REACT**    
-   6.1. **[React Básico - Proyectos](https://github.com/Alegarse/CodeSpace_React_Module_Basic)** - _Conjunto de proyectos de aprendizaje de React Básico_
-
-
+---   
 
 **MIDDLE PROYECT - ADMIN PANEL** - Panel de administración de una temática de viveros que gestiona perfiles de usuario.   
    - **[Admin Panel FrontEnd](https://github.com/Alegarse/CodeSpace_AdminPanel_Frontend)** - _FrontEnd realizado con Vite en HTML, CSS y JavaScript_   
