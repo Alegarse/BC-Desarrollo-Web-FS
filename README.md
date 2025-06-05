@@ -64,8 +64,8 @@ Aquí iré destacando los repositorios con el código de aprendizaje de cada uno
 2. **MODULO JAVASCRIPT**  
    2.1. **[Ejercicios básicos](https://github.com/Alegarse/B17-mod3-js-basic-exercises)** - _Ejercicios básicos de los temas_ - [Visualización Online](https://js-basic-exercises.arenalsoft.es/)  
    2.2. **[Ejercicios avanzados](https://github.com/Alegarse/B17-mod3-js-advance-exercises)** - _Ejercicios avanzados de los temas_ - _En proceso_ -  [Visualización Online](https://js-advance-exercises.arenalsoft.es/)  
-   2.3. **[Prácticas básicas](https://github.com/Alegarse/B17-mod3-js-basic-practice) - PRIVATE - Need Auth**  -  [Visualización Online](https://js-basic-practice.arenalsoft.es/)   
-   2.4. **[Prácticas avanzadas](https://github.com/Alegarse/B17-mod3-js-advance-practice) - PRIVATE - Need Auth** -  [Visualización Online](https://js-advance-practice.arenalsoft.es/)  
+   2.3. **[Prácticas básicas](https://github.com/Alegarse/B17-mod3-js-basic-practice)** - _Práctica básica de los temas_ -  [Visualización Online](https://js-basic-practice.arenalsoft.es/)   
+   2.4. **[Prácticas avanzadas](https://github.com/Alegarse/B17-mod3-js-advance-practice)** - _Práctica avanzada de los temas_ -  [Visualización Online](https://js-advance-practice.arenalsoft.es/)  
 
 3. **MODULO BBDD**   
    3.1. **[Bases de datos relacionales](https://github.com/Alegarse/B17-mod4-bbdd-rel)** - _Contenido y ejercicios de querys SQL_   
