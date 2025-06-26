@@ -76,7 +76,8 @@ Aquí iré destacando los repositorios con el código de aprendizaje de cada uno
    4.2. **[Recipes API](https://github.com/Alegarse/RecipesAPI)** - _APi RestFull para devolver recetas de cocina_ 
 
 5. **MODULO REACT**    
-   5.1. **[React Básico - Proyectos](https://github.com/Alegarse/CodeSpace_React_Module_Basic)** - _Conjunto de proyectos de aprendizaje de React Básico_
+   5.1. **[React Básico - Proyectos](https://github.com/Alegarse/CodeSpace_React_Module_Basic)** - _Conjunto de proyectos de aprendizaje de React Básico_   
+   5.2. **[React Básico - Práctica](https://github.com/Alegarse/CodeSpace_React_Module_Basic_Practice)** - _Práctica parte de React Básico_ -  [Visualización Online](https://reactjs-basic-practice.arenalsoft.es/)      
 
 ---   
 
