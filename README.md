@@ -56,6 +56,7 @@ A lo largo del bootcamp, trabajaré con las siguientes tecnologías y herramient
 <a id="repos-realizados"></a>
 ## Proyectos Realizados 🌟
 Aquí iré destacando los repositorios con el código de aprendizaje de cada uno de los módulos y los proyectos más importantes que se desarrollen durante el Bootcamp:  
+[En caso de querer acceso a los repositorios, contáctame por privado]   
 
 1. **MODULO HTML y CSS**  
    1.1. **[HTML/CSS Web Page](https://github.com/Alegarse/web_html_css)** - _Replicación de un proyecto Figma para aprendizaje de HMTL y CSS_ - [Visualización Online](https://web-html-css.arenalsoft.es/)   
