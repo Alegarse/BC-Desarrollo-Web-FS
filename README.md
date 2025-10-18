@@ -84,8 +84,14 @@ Aquí iré destacando los repositorios con el código de aprendizaje de cada uno
 ---   
 
 **MIDDLE PROYECT - ADMIN PANEL** - Panel de administración de una temática de viveros que gestiona perfiles de usuario.   
-   - **[Admin Panel FrontEnd](https://github.com/Alegarse/CodeSpace_AdminPanel_Frontend)** - _FrontEnd realizado con Vite en HTML, CSS y JavaScript_ - [Visualización Online](https://codeplants.arenalsoft.es/)    
+   - **[Admin Panel FrontEnd](https://github.com/Alegarse/CodeSpace_AdminPanel_Frontend)** - _FrontEnd realizado con Vite en HTML, CSS y JavaScript_      
    - **[Admin Panel BAckEnd](https://github.com/Alegarse/CodeSpace_AdminPanel_Backend)** - _BackEnd realizado con NodeJS_  
+
+---   
+
+**FINAL PROYECT - SECOND HAND HUB** - Web App para la compra venta de articulos de segunda mano.      
+   - **[SecondHand Hub FrontEnd](https://github.com/Alegarse/SecondHandHub_FrontEnd)** - _FrontEnd realizado con Vite + ReactJS      
+   - **[SecondHand Hub BackEnd](https://github.com/Alegarse/SecondHandHub_BacktEnd)** - _BackEnd realizado con NodeJS_     
 
 ---
 <a id="contacto"></a>
