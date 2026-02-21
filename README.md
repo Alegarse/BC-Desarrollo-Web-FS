@@ -91,7 +91,7 @@ Aquí iré destacando los repositorios con el código de aprendizaje de cada uno
 
 **FINAL PROYECT - SECOND HAND HUB** - Web App para la compra venta de articulos de segunda mano.      
    - **[SecondHand Hub FrontEnd](https://github.com/Alegarse/SecondHandHub_FrontEnd)** - _FrontEnd realizado con Vite + ReactJS      
-   - **[SecondHand Hub BackEnd](https://github.com/Alegarse/SecondHandHub_BacktEnd)** - _BackEnd realizado con NodeJS_     
+   - **[SecondHand Hub BackEnd](https://github.com/Alegarse/SecondHandHub_BackEnd)** - _BackEnd realizado con NodeJS_     
 
 ---
 <a id="contacto"></a>
