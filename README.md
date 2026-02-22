@@ -79,7 +79,8 @@ Aquí iré destacando los repositorios con el código de aprendizaje de cada uno
 5. **MODULO REACT**    
    5.1. **[React Básico - Proyectos](https://github.com/Alegarse/CodeSpace_React_Module_Basic)** - _Conjunto de proyectos de aprendizaje de React Básico_   
    5.2. **[React Básico - Práctica](https://github.com/Alegarse/CodeSpace_React_Module_Basic_Practice)** - _Práctica parte de React Básico_ -  [Visualización Online](https://reactjs-basic-practice.arenalsoft.es/)   
-   5.3. **[React Avanzado - Proyectos](https://github.com/Alegarse/CodeSpace_React_Module_Advanced)** - _Conjunto de proyectos de aprendizaje de React Avanzado_      
+   5.3. **[React Avanzado - Proyectos](https://github.com/Alegarse/CodeSpace_React_Module_Advanced)** - _Conjunto de proyectos de aprendizaje de React Avanzado_   
+   5.4. **[React Avanzado - Práctica](https://github.com/Alegarse/CodeSpace_React_Module_Advanced_Practice_Frontend)** - _Práctica parte de React Avanzado_ -  [Visualización Online](https://donutstore.arenalsoft.es/)       
 
 ---   
 
