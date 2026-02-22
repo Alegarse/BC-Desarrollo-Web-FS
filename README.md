@@ -1,5 +1,5 @@
-# Bootcamp de Desarrollo Web CodeSpace XVII🚀 
-¡Bienvenido a mi repositorio de ejercicios y proyectos del Bootcamp de Desarrollo Web! 🌐 Este espacio recopila todo mi progreso, aprendizaje y código desarrollado durante el programa.  
+# Bootcamp de Desarrollo Web CodeSpace XVII
+¡Bienvenido a mi repositorio de ejercicios y proyectos del Bootcamp de Desarrollo Web! 
 ---
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,figma,vscode,kotlin,py)](https://skillicons.dev)
 ---
@@ -13,7 +13,7 @@
 
 ---
 <a id="sobre-el-bootcamp"></a>
-## Sobre el Bootcamp 🌟
+## Sobre el Bootcamp
 En este bootcamp, me estoy sumergiendo en el fascinante mundo del desarrollo web. Estoy aprendiendo tecnologías modernas y buenas prácticas para crear aplicaciones web dinámicas, escalables y atractivas.  
 
 **Objetivos del programa:**  
@@ -23,12 +23,12 @@ En este bootcamp, me estoy sumergiendo en el fascinante mundo del desarrollo web
 
 ---
 <a id="estructura-del-repositorio"></a>
-## Estructura del Repositorio 📂 
+## Estructura del Repositorio 
 Este repositorio está organizado de la siguiente manera:  
 
 ```plaintext
-📦 Bootcamp-Desarrollo-Web  
-├── 📁 recursos            # Documentos, enlaces útiles y notas personales
+Bootcamp-Desarrollo-Web  
+├── recursos            # Documentos, enlaces útiles y notas personales
 ├── .gitignore             # Exclusiones del control de versiones
 ├── LICENSE                # Licencia del contenido del repositorio  
 ├── README.md              # Este archivo con indexado de repositorios
@@ -36,25 +36,25 @@ Este repositorio está organizado de la siguiente manera:
 
 ---
 <a id="tecnologías-y-herramientas"></a>
-## Tecnologías y Herramientas 🛠️  
+## Tecnologías y Herramientas 
 A lo largo del bootcamp, trabajaré con las siguientes tecnologías y herramientas:  
 
 ### **Frontend**  
-- 🖌️ **HTML5, CSS3**  
-- 🎨 **JavaScript**  
-- ⚛️ **React.js** 
+- **HTML5, CSS3**  
+- **JavaScript**  
+- **React.js** 
 
 ### **Backend**  
-- 🔧 **Node.js**  
-- 🗄️ **MongoDB**  
+- **Node.js**  
+- **MongoDB**  
 
 ### **Otros**  
-- 🖥️ **Git, GitHub**  
-- 🧪 **Figma, VSCode, Kotlin, Python**  
+- **Git, GitHub**  
+- **Figma, VSCode, Kotlin, Python**  
 
 ---
 <a id="repos-realizados"></a>
-## Proyectos Realizados 🌟
+## Proyectos Realizados
 Aquí iré destacando los repositorios con el código de aprendizaje de cada uno de los módulos y los proyectos más importantes que se desarrollen durante el Bootcamp:  
 [En caso de querer acceso a los repositorios, contáctame por privado]   
 
@@ -95,12 +95,12 @@ Aquí iré destacando los repositorios con el código de aprendizaje de cada uno
 
 ---
 <a id="contacto"></a>
-## Contacto 📞 
+## Contacto 
 Si tienes alguna pregunta, sugerencia o simplemente quieres conectar, ¡no dudes en contactarme!  
 
-- ✉️ **Correo:** [agscm2@gmail.com](mailto:agscm2@gmail.com)
-- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/alegarse/" target="_blank">alegarse</a>  
+- **Correo:** [agscm2@gmail.com](mailto:agscm2@gmail.com)
+- **LinkedIn:** <a href="https://www.linkedin.com/in/alegarse/" target="_blank">alegarse</a>  
 
 ---
 
-✨ _"El aprendizaje nunca se detiene, y cada línea de código es un paso más hacia el progreso."_ 
+_"El aprendizaje nunca se detiene, y cada línea de código es un paso más hacia el progreso."_ 
