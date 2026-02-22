@@ -1,12 +1,11 @@
-# Bootcamp de Desarrollo Web CodeSpace XVII
-¡Bienvenido a mi repositorio de ejercicios y proyectos del Bootcamp de Desarrollo Web! 
+# Bootcamp de Desarrollo Web
+¡Bienvenido a mi repositorio de ejercicios y proyectos del Bootcamp de Desarrollo Web Full Stack! 
 ---
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,figma,vscode,kotlin,py)](https://skillicons.dev)
 ---
 
 ## Tabla de Contenidos📋  
-- [Sobre el Bootcamp](#sobre-el-bootcamp)  
-- [Estructura del Repositorio](#estructura-del-repositorio)  
+- [Sobre el Bootcamp](#sobre-el-bootcamp)   
 - [Tecnologías y Herramientas](#tecnologías-y-herramientas)  
 - [Repositorios y Proyectos Realizados](#repos-realizados)
 - [Contacto](#contacto)  
@@ -14,25 +13,12 @@
 ---
 <a id="sobre-el-bootcamp"></a>
 ## Sobre el Bootcamp
-En este bootcamp, me estoy sumergiendo en el fascinante mundo del desarrollo web. Estoy aprendiendo tecnologías modernas y buenas prácticas para crear aplicaciones web dinámicas, escalables y atractivas.  
+En este bootcamp te sumergerás en el fascinante mundo del desarrollo web, aprendiendo tecnologías modernas y buenas prácticas para crear aplicaciones web dinámicas, escalables y atractivas.  
 
 **Objetivos del programa:**  
 - Comprender los fundamentos del desarrollo frontend y backend.  
-- Construir aplicaciones web utilizando **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, y más.  
+- Construir aplicaciones web utilizando **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **MongoDB**, **MySQL**, y más.  
 - Implementar buenas prácticas de programación, como control de versiones, testing y deployment.  
-
----
-<a id="estructura-del-repositorio"></a>
-## Estructura del Repositorio 
-Este repositorio está organizado de la siguiente manera:  
-
-```plaintext
-Bootcamp-Desarrollo-Web  
-├── recursos            # Documentos, enlaces útiles y notas personales
-├── .gitignore             # Exclusiones del control de versiones
-├── LICENSE                # Licencia del contenido del repositorio  
-├── README.md              # Este archivo con indexado de repositorios
-```
 
 ---
 <a id="tecnologías-y-herramientas"></a>
@@ -46,17 +32,18 @@ A lo largo del bootcamp, trabajaré con las siguientes tecnologías y herramient
 
 ### **Backend**  
 - **Node.js**  
-- **MongoDB**  
+- **MongoDB**
+- **MySQL** 
 
 ### **Otros**  
 - **Git, GitHub**  
-- **Figma, VSCode, Kotlin, Python**  
+- **Figma, VSCode, Vite**   
+- **Kotlin, Python**  
 
 ---
 <a id="repos-realizados"></a>
 ## Proyectos Realizados
-Aquí iré destacando los repositorios con el código de aprendizaje de cada uno de los módulos y los proyectos más importantes que se desarrollen durante el Bootcamp:  
-[En caso de querer acceso a los repositorios, contáctame por privado]   
+Aquí encontrarás los repositorios con el código de aprendizaje de cada uno de los módulos y los proyectos más importantes que se desarrollen durante el Bootcamp, además de su deploy.     
 
 1. **MODULO HTML y CSS**  
    1.1. **[HTML/CSS Web Page](https://github.com/Alegarse/web_html_css)** - _Replicación de un proyecto Figma para aprendizaje de HMTL y CSS_ - [Visualización Online](https://web-html-css.arenalsoft.es/)   
